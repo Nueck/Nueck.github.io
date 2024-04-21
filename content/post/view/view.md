@@ -1,7 +1,7 @@
 ---
 title: "欢迎来到MBTI人格餐厅，希望这里带给你不一样的体验"
 description: 欢迎来到MBTI人格餐厅，希望这里带给你不一样的体验
-slug: hanhan
+slug: view
 date: 2024-04-21T14:16:13+08:00
 image: cover.jpg
 categories:
