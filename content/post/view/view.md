@@ -1,14 +1,14 @@
 ---
 title: "欢迎来到MBTI人格餐厅，希望这里带给你不一样的体验"
 description: 欢迎来到MBTI人格餐厅，希望这里带给你不一样的体验
-slug: hello-world
+slug: hanhan
 date: 2024-04-21T14:16:13+08:00
-image:cover.jpg
+image: cover.jpg
 categories:
-    - Nueck
+    - HanHan
 tags:
-    - Nueck
-weight: 1  
+    - HanHan
+weight: 1 
 ---
 
 1. **ISTJ（物流师）**
